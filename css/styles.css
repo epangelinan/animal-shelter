@@ -2,6 +2,52 @@ body {
   font-family: sans-serif;
 }
 
+div {
+  width: 23%;
+  float: left;
+  margin-left: 5px;
+  padding: 5px;
+}
+
+.intro {
+  font-size: 30px;
+}
+
+.raccoon strong {
+  font-size: 20px;
+  color: white;
+}
+
+.kitty strong {
+  font-size: 25px;
+  color: purple;
+}
+
+.puppy strong {
+  font-size: 25px;
+  color: yellow;
+}
+
+.skunk strong {
+  font-size: 20px;
+  color: blue;
+}
+
+.raccoon {
+  background-color: grey;
+}
+.kitty {
+  background-color: pink;
+}
+
+.puppy {
+  background-color: blue;
+}
+
+.skunk {
+  background-color: red;
+}
+
 img  {
   width: 200px;
 }
